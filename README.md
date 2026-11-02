@@ -84,7 +84,7 @@ A snapshot is a list of drawing instructions, not an image. Replaying those inst
 ### 1. Clone the repository
 
 ```sh
-git clone https://github.com/suhanigupta23/SketchRoom.git
+git clone https://github.com/parthrudrawar/SketchRoom.git
 cd SketchRoom
 ```
 
